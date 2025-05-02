@@ -180,7 +180,6 @@ function MAJ-Systeme {
     Clear-Host
 }
 
-# Boucle principale
 do {
     Show-Menu
     $choice = Read-Host "Sélectionnez une option (1-4)"
